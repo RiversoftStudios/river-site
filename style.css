@@ -7,7 +7,7 @@ html {
 body {
     margin: 0;
     padding: 0;
-    background: url("src/img/background.png") center center / cover no-repeat fixed;
+    background: url("src/img/gorla.png") center center / cover no-repeat fixed;
     font-family: Poppins;
     cursor: default;
 }
